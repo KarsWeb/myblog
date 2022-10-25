@@ -14,3 +14,10 @@ height: 100px;
 background-color: antiquewhite;
 padding-top: 40px;
 }
+
+.main{
+  font-size: 50px;
+  font-weight: bold;
+  background-color: red;
+  color: #fff;
+}
